@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\manuelm\desktop\c++ scripts\tictactoe\tictactoe\source.cpp(153): warning C4551: function call missing argument list
+  Generating code
+  All 216 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TicTacToe.vcxproj -> C:\Users\ManuelM\Desktop\C++ Scripts\TicTacToe\x64\Release\TicTacToe.exe

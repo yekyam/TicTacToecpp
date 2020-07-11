@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\manuelm\desktop\c++ scripts\tictactoe\tictactoe\source.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\manuelm\desktop\c++ scripts\tictactoe\tictactoe\source.cpp(154): warning C4551: function call missing argument list
+  TicTacToe.vcxproj -> C:\Users\ManuelM\Desktop\C++ Scripts\TicTacToe\Debug\TicTacToe.exe
